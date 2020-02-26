@@ -12,11 +12,11 @@ From this directory, run:
 
 - `virtualenv -p python3 venv`
 - `source venv/bin/activate`
-- `pip install -r requirements.txt`
+- `pip install .`
 
 ## Running
 
-- `python csv_to_netcdf myfile.csv`
+- `python -m csv_to_netcdf myfile.csv`
 
 This will create a file myfile.nc in the same directory
 options:
