@@ -1,6 +1,6 @@
 # CSV to NetCDF converter
 
-This is a simple Python3 to convert CSV to NetCDF using xarray
+This is a simple Python3 script to convert CSV to NetCDF using xarray
 
 ## Installation
 
