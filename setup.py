@@ -9,7 +9,7 @@ setup(name='csv_to_netcdf',
       packages=['csv_to_netcdf'],
 
       install_requires=[
-          'certifi==2019.11.28',
+          'certifi==2022.12.7',
           'cftime==1.1.0',
           'Click==7.0',
           'netCDF4==1.5.3',
